@@ -17,18 +17,12 @@ a {
     justify-content: center;
     padding: 20px;
     gap: 30px;
+    width: 1000px;
 }
-.left-container {
-    width: 35%;
-}
+
 .left-container img{
-    width: 100%;
-    
+    width: 300px;
 }
 .left-container p {
     color: #565959;
-}
-
-.right-container {
-    width: 65%;
 }
